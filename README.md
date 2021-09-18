@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to Javier's Code</h1>
+<h1 align="center">Hi! 👋 Welcome to Javier's Code</h1>
 <h3 align="center">I'm a Frontend Developer and future Software Engineer</h3>
 
 - 🔭 I’m currently working on **@Accenture**
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Nextjs, TypeScript and JavaScript**
 
-- 📫 How to reach me **hola@soyjavierlinares.com**
+- 📫 How to reach me **javihp79@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
