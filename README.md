@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Javier Linares</h1>
-<h3 align="center">Frontend Developer and future Software Engineer</h3>
+<h1 align="center">Hi 👋, Welcome to Javier's Code</h1>
+<h3 align="center">I'm a Frontend Developer and future Software Engineer</h3>
 
 - 🔭 I’m currently working on **@Accenture**
 
