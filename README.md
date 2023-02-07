@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 Welcome to Javier's Code</h1>
 <h3 align="center">I'm a Frontend Developer and Software Engineer</h3>
 
-- 🔭 I’m currently working on **@Accenture**
+- 🔭 I’m currently working in **@Accenture**
 
 - 🌱 I’m currently learning **Vue, Nestjs and Cypress**
 
