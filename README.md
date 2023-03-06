@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working in **@iseazy**
 
-- 🌱 I’m currently learning **Vue, Nestjs and Cypress**
-
 - 💬 Ask me about **React, Nextjs, TypeScript and JavaScript**
-
-- 📫 How to reach me **javihp79@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
